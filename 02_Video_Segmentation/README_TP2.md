@@ -243,7 +243,6 @@ pip install ultralytics transformers torch torchvision opencv-python matplotlib 
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- **Noémie Kpatenon** & **Slimane Boussafeur**
-- Polytechnique Montréal — INF6804 (2025)
+- **Noémie Kpatenon**
