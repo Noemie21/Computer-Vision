@@ -115,15 +115,6 @@ jupyter notebook 01_ROI_Description/CLIP.ipynb
 
 ---
 
-## 👥 Authors
-
-- **Noémie Kpatenon** — [@Noemie21](https://github.com/Noemie21)
-- **Slimane Boussafeur**
-
-**Supervisors:** G.A. Bilodeau & Khalil Sabri  
-**Course:** INF6804 — Computer Vision, Polytechnique Montréal (2025)
-
----
 
 ## 📄 License
 
